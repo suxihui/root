@@ -11,6 +11,9 @@
 ```
 bash <(curl -sSL https://cdn.jsdelivr.net/gh/suxihui/root/root.sh)
 ```
+```
+bash <(curl -sSL https://raw.githubusercontent.com/suxihui/root/main/root.sh)
+```
 用户名：root，密码必须自定义。
 
 登录SSH时，请更改原用户名为root，并输入自定义密码！
